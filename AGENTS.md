@@ -4,7 +4,7 @@
 - **Package Manager**: bun
 - **Framework**: SvelteKit 2 + Svelte 5
 - **Styling**: Tailwind CSS v4
-- **Adapter**: @sveltejs/adapter-vercel
+- **Adapter**: @sveltejs/adapter-netlify
 - **i18n**: paraglide-js
 
 ---

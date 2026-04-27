@@ -11,7 +11,7 @@ Landing page untuk **Printy** — platform digitalisasi usaha fotokopi via Whats
 | Icons | lucide-svelte |
 | Animation | Canvas API (native) |
 | i18n | paraglide-js |
-| Deployment | Vercel Adapter |
+| Deployment | Netlify Adapter |
 | Type Safety | TypeScript |
 | Linting | ESLint + Prettier |
 
@@ -111,7 +111,7 @@ bun run dev
 
 ## Deployment
 
-Vercel adapter configured. Run `bun run build` then deploy.
+Netlify adapter configured. Run `bun run build` then deploy.
 
 ## CSS Architecture
 
