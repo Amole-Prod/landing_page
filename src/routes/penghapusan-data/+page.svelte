@@ -3,6 +3,11 @@
 	import { legalContent } from '$lib/data/legal';
 </script>
 
+<svelte:head>
+	<title>{legalContent.dataDeletion.title} - Printy</title>
+	<meta name="description" content={legalContent.dataDeletion.description} />
+</svelte:head>
+
 <LegalPage
 	title={legalContent.dataDeletion.title}
 	description={legalContent.dataDeletion.description}

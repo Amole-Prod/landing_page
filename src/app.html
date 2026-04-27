@@ -34,6 +34,49 @@
 		<meta name="twitter:description" content="Platform digitalisasi usaha fotokopi via WhatsApp." />
 		<meta name="twitter:image" content="/assets/logo.png" />
 
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@graph": [
+				{
+					"@type": "Organization",
+					"name": "Printy",
+					"url": "https://amole.my.id",
+					"logo": "https://amole.my.id/assets/logo.png",
+					"contactPoint": {
+						"@type": "ContactPoint",
+						"telephone": "+62-822-8840-4233",
+						"contactType": "customer service",
+						"availableLanguage": ["id", "en"]
+					},
+					"sameAs": []
+				},
+				{
+					"@type": "WebSite",
+					"name": "Printy",
+					"url": "https://amole.my.id",
+					"potentialAction": {
+						"@type": "SearchAction",
+						"target": "https://amole.my.id/news",
+						"query-input": "required name=search_term_string"
+					}
+				},
+				{
+					"@type": "SoftwareApplication",
+					"name": "Printy",
+					"applicationCategory": "BusinessApplication",
+					"operatingSystem": "WhatsApp, Web",
+					"offers": {
+						"@type": "Offer",
+						"price": "0",
+						"priceCurrency": "IDR"
+					},
+					"description": "Platform digitalisasi usaha fotokopi via WhatsApp dengan bot otomatis, dashboard manajemen, dan pembayaran terintegrasi."
+				}
+			]
+		}
+		</script>
+
 		%sveltekit.head%
 	</head>
 
