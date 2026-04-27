@@ -30,11 +30,6 @@
 				Fotokopi <em class="text-p4 not-italic">lebih cerdas</em><br />lewat WhatsApp
 			</h1>
 
-			<p class="mb-10 max-w-xl text-lg leading-relaxed text-p5/80 lg:text-xl">
-				Printy mengubah cara pelanggan mencetak dokumen. Kirim file via WhatsApp, atur konfigurasi,
-				bayar — selesai. Tanpa antrean panjang, tanpa kesalahan manual.
-			</p>
-
 <p class="mb-10 max-w-xl text-lg leading-relaxed text-p5/80 lg:text-xl">
 				Printy mengubah cara pelanggan mencetak dokumen. Kirim file via WhatsApp, atur konfigurasi,
 				bayar — selesai. Tanpa antrean panjang, tanpa kesalahan manual.
